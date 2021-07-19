@@ -10,7 +10,7 @@ I am software developer and web designer 🚀 focused on crafting and user-frien
 - 🥅 2021 Goals: Contribute more to Open Source projects
 <br />
 
-### Languages and Tools
+### Languages and Tools :
 
 <div align="center">
 <img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -27,9 +27,9 @@ I am software developer and web designer 🚀 focused on crafting and user-frien
 <img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 <img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 </div>
+<br/>
 
-
-### Github Stats
+### Github Stats :
 <img  src="https://github-readme-stats.vercel.app/api?username=TanishDahiya&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=TanishDahiya&theme=dark" width="45%" >
