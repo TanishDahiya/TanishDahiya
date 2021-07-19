@@ -2,7 +2,7 @@
 <h1 align="center"> Hi there, I'm Tanish Dahiya <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-I am software developer and web designer focused on crafting and user-friendly experiences. I am passionate about building excellent software that improves the lives of those around me. My latest deal is I'm making as many useful things with the React as humanly possible.
+I am software developer and web designer 🚀 focused on crafting and user-friendly experiences. I am passionate about building excellent software that improves the lives of those around me. My latest deal is I'm making as many useful things with the React as humanly possible 🤖
 
 - 🔭 Electronics and Communication Engineering
 - 🌱 I’m currently learning everything 🤣
@@ -19,6 +19,7 @@ I am software developer and web designer focused on crafting and user-friendly e
 <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img height="40" width="40" src="https://material-ui.com/static/logo_raw.svg" />
+<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />  
 <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
