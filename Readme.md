@@ -1,13 +1,11 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+![]()
 <h1 align="center"> Hi there, I'm Tanish Dahiya <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
-<!-- <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> -->
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 I am software developer and web designer 🚀 focused on crafting and user-friendly experiences. I am passionate about building excellent software that improves the lives of those around me. My latest deal is I'm making as many useful things with the React as humanly possible 🤖
 
 - 🔭 Electronics and Communication Engineering
-- 🌱 I’m currently learning everything 
 - 📫 How to reach me : just visit [TanishDahiya.com](https://tanishdahiya.com/)
-- 🥅 2021 Goals: Contribute more to Open Source projects
 <br />
 
 ### Languages and Tools :
