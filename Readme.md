@@ -1,33 +1,29 @@
-![]()
-<h1 align="center"> Hi there, I'm Tanish Dahiya <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+# Tanish Dahiya
 
-I am software developer and web designer 🚀 focused on crafting and user-friendly experiences. I am passionate about building excellent software that improves the lives of those around me. My latest deal is I'm making as many useful things with the React as humanly possible 🤖
+Java Full Stack Developer with 5+ years of experience building scalable web applications — from backend APIs to responsive frontends.
 
-- 🔭 Electronics and Communication Engineering
-- 📫 How to reach me : just visit [TanishDahiya.com](https://tanishdahiya.com/)
-<br />
+📍 India · 🌐 [tanishdahiya.com](https://tanishdahiya.com)
 
-### Languages and Tools :
+---
 
-<div align="center">
-<img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img height="50" width="50" src="https://material-ui.com/static/logo_raw.svg" />
-<img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />  
-<img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
-<img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-</div>
-<br/>
+## About
 
-### Github Stats :
-<img  src="https://github-readme-stats.vercel.app/api?username=TanishDahiya&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
+I specialize in designing and developing end-to-end Java-based applications. On the backend I work with Spring Boot and REST APIs; on the frontend I build with React. I care about clean architecture, code quality, and shipping things that actually work.
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=TanishDahiya&theme=dark" width="45%" >
+---
+
+## Tech Stack
+
+**Backend** — Java, Spring Boot, Spring MVC, Hibernate, REST APIs, SQL  
+**Frontend** — React, Redux, JavaScript, HTML, CSS  
+**Tools & Others** — Git, Firebase, Maven, Postman, Node.js
+
+---
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=TanishDahiya&show_icons=true&hide_border=true&theme=dark)
+
+---
+
+*Open to backend-heavy or full stack roles. Feel free to reach out.*
