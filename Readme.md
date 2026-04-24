@@ -16,14 +16,6 @@ I specialize in designing and developing end-to-end Java-based applications. On 
 
 **Backend** — Java, Spring Boot, Spring MVC, Hibernate, REST APIs, SQL  
 **Frontend** — React, Redux, JavaScript, HTML, CSS  
-**Tools & Others** — Git, Firebase, Maven, Postman, Node.js
-
----
-
-## GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=TanishDahiya&show_icons=true&hide_border=true&theme=dark)
-
----
-
-*Open to backend-heavy or full stack roles. Feel free to reach out.*
+**Cloud & DevOps** — AWS (EC2, S3, Lambda, IAM, RDS), Docker, Kubernetes  
+**Data & ML** — PySpark, XGBoost, Recommendation Models, Pandas, NumPy  
+**Tools & Others** — Git, Maven, Postman, Firebase, Node.js
