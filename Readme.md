@@ -23,13 +23,4 @@ REST APIs, Microservices, JUnit, Mockito, Maven, Gradle
 **Frontend** — React JS, Redux, JavaScript (ES6+), HTML5, CSS3, Thymeleaf,
 Bootstrap, Jest, RTL
 
-**Cloud** — AWS (SageMaker, Personalize, EMR, Lambda, S3, Batch, EventBridge),
-IAM, Terraform
-
-**Data Engineering** — PySpark, Apache Spark, Jupyter Notebook
-
-**Containerization** — Docker, Kubernetes
-
-**DevOps / CI-CD** — Git, Jenkins, CI/CD Pipelines, Linux, Shell Scripting
-
 **Databases** — PostgreSQL, Oracle, MySQL, Redis
