@@ -1,5 +1,5 @@
 # Tanish Dahiya
-Software Engineer with 4+ years of experience building scalable backend systems,
+Software Engineer with 5+ years of experience building scalable backend systems,
 full-stack applications, and cloud-native data pipelines.
 
 📍 India · 🌐 [tanishdahiya.com](https://tanishdahiya.com) · 
