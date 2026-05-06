@@ -1,21 +1,35 @@
 # Tanish Dahiya
+Software Engineer with 4+ years of experience building scalable backend systems,
+full-stack applications, and cloud-native data pipelines.
 
-Java Full Stack Developer with 5+ years of experience building scalable web applications — from backend APIs to responsive frontends.
-
-📍 India · 🌐 [tanishdahiya.com](https://tanishdahiya.com)
+📍 India · 🌐 [tanishdahiya.com](https://tanishdahiya.com) · 
+💼 [linkedin.com/in/tanish-dahiya](https://www.linkedin.com/in/tanish-dahiya-983707152/)
 
 ---
 
 ## About
-
-I specialize in designing and developing end-to-end Java-based applications. On the backend I work with Spring Boot and REST APIs; on the frontend I build with React. I care about clean architecture, code quality, and shipping things that actually work.
+I specialize in building high-volume distributed systems and enterprise-grade
+full-stack applications. On the backend I work with Java and Spring Boot; on the
+frontend with React JS. I care about clean architecture, system reliability, and
+delivering measurable impact at scale.
 
 ---
 
 ## Tech Stack
 
-**Backend** — Java, Spring Boot, Spring MVC, Hibernate, REST APIs, SQL  
-**Frontend** — React, Redux, JavaScript, HTML, CSS  
-**Cloud & DevOps** — AWS (EC2, S3, Lambda, IAM, RDS), Docker, Kubernetes  
-**Data & ML** — PySpark, XGBoost, Recommendation Models, Pandas, NumPy  
-**Tools & Others** — Git, Maven, Postman, Firebase, Node.js
+**Backend** — Java, Spring Boot, Spring Batch, Spring Security, Kafka, Hibernate,
+REST APIs, Microservices, JUnit, Mockito, Maven, Gradle
+
+**Frontend** — React JS, Redux, JavaScript (ES6+), HTML5, CSS3, Thymeleaf,
+Bootstrap, Jest, RTL
+
+**Cloud** — AWS (SageMaker, Personalize, EMR, Lambda, S3, Batch, EventBridge),
+IAM, Terraform
+
+**Data Engineering** — PySpark, Apache Spark, Jupyter Notebook
+
+**Containerization** — Docker, Kubernetes
+
+**DevOps / CI-CD** — Git, Jenkins, CI/CD Pipelines, Linux, Shell Scripting
+
+**Databases** — PostgreSQL, Oracle, MySQL, Redis
